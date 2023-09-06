@@ -6,7 +6,7 @@ When program is run it prompts user to give depth as input and board position is
 
 FILE:				            Input of board position:	Output:
 				
-MiniMaxOpening.py		          board1.txt			board2.txt
+MiniMaxOpening.py>>		          board1.txt			board2.txt
 
 MiniMaxGame.py			          board3.txt			board4.txt
 
